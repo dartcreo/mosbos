@@ -119,4 +119,10 @@ Thumbs.db
 
 # Ruff
 .ruff_cache/
+
+# Poetry
+poetry.lock
+**/.pdm.toml
+.pdm-python
+.pdm-cache/
 ```
